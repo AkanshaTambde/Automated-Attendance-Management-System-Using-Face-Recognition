@@ -1,0 +1,2 @@
+# Automated-Attendance-Management-System-Using-Face-Recognition
+Taking and tracking students' attendance manually, losing attendance sheets, dishonesty, wasted time and high error scales are problems facing the lecturers use the existing attendance system. It is a hard process, take time and cause a lot of paper-based work. As a result, in order to solve these problems and avoid errors we suggest to computerize this process by providing a system that record and manage students' attendance automatically without needing to lecturers' interference.
